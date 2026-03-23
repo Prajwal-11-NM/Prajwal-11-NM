@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Prajwal 👋
 
-<!--
-**Prajwal-11-NM/Prajwal-11-NM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 EEE student at NITK  
 
-Here are some ideas to get you started:
+## Core Skills:
+- Verilog HDL  
+- Digital Design  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus:
+- Cache Design  
+- Prefetcher Systems  
+- Computer Architecture  
+
+## Interests:
+- VLSI Design  
+- Embedded Systems  
+
+## Status:
+Actively working on hardware design — projects 
